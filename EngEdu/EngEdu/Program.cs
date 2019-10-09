@@ -17,7 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2563 semester1, I learn to program in Java.");
             Console.WriteLine("Year 2563 semester2, I learn to program in Python.");
             Console.WriteLine("Year 2564 semester1, I have project.");
-           
+            Console.WriteLine("Year 2564 semester2, I have project2.");
 
 
 
